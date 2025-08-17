@@ -2,7 +2,7 @@
 body {
   margin: 0; /* Elimina el margen predeterminado */
   font-family: Arial, sans-serif; /* Define la fuente */
-  background-color: #d8b4a0; /* Color de fondo */
+  background-color: #001133; /* Color de fondo */
 }
 
 /* Estilo del encabezado */
@@ -11,7 +11,7 @@ header {
   align-items: center; /* Centra los elementos verticalmente */
   justify-content: space-between; /* Espacia los elementos horizontalmente */
   padding: 10px 20px; /* Espaciado interno */
-  background-color: #a67c68; /* Color de fondo */
+  background-color: #660066; /* Color de fondo */
   color: white; /* Color del texto */
 }
 
@@ -58,7 +58,7 @@ main {
 /* Estilo para pantallas medianas */
 @media (max-width: 800px) {
   body {
-    background-color: #a67c68; /* Cambia el color de fondo */
+    background-color: #001133; /* Cambia el color de fondo */
   }
 }
 
