@@ -9,7 +9,7 @@ body {
 header {
   display: flex; /* Usa flexbox para alinear elementos */
   align-items: center; /* Centra los elementos verticalmente */
-  justify-content: space-between; /* Espacia los elementos horizontalmente */
+  justify-content: center; /* Espacia los elementos horizontalmente */
   padding: 10px 20px; /* Espaciado interno */
   background-color: #660066; /* Color de fondo */
   color: white; /* Color del texto */
